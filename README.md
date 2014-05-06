@@ -3,4 +3,28 @@ Stop Words
 
 List of common stop words in various languages.
 
-Stop_words at wikipedia: http://en.wikipedia.org/wiki/Stop_words
+
+
+Available languages
+-------------------
+* Danish
+* Dutch
+* English
+* Finnish
+* French
+* German
+* Hungarian
+* Italian
+* Norwegian
+* Portuguese
+* Romanian
+* Russian
+* Spanish
+* Swedish
+* Turkish
+
+
+Contributing
+-----------------
+You know how ;)
+
