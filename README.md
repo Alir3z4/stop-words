@@ -30,6 +30,12 @@ Contributing
 You know how ;)
 
 
+Programming languages support
+-----------------------------
+
+* `Python`: https://github.com/Alir3z4/python-stop-words
+
+
 License
 --------
 [Attribution 4.0 International (CC BY 4.0)][LICENSE]
