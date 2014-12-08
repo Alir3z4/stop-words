@@ -24,6 +24,14 @@ Available languages
 * Swedish
 * Turkish
 
+Basic usage
+-----------------
+```python
+from stop_words import get_stop_words
+
+stop_words = get_stop_words('english')
+```
+
 
 Contributing
 -----------------
