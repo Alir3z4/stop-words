@@ -8,6 +8,7 @@ List of common stop words in various languages.
 Available languages
 -------------------
 * Arabic
+* Catalan
 * Danish
 * Dutch
 * English
