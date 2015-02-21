@@ -24,7 +24,7 @@ Available languages
 * Spanish
 * Swedish
 * Turkish
-
+* Ukrainian
 
 Contributing
 -----------------
