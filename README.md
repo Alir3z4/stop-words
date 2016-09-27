@@ -16,6 +16,7 @@ Available languages
 * French
 * German
 * Hungarian
+* Indonesian
 * Italian
 * Norwegian
 * Portuguese
