@@ -19,6 +19,7 @@ Available languages
 * Indonesian
 * Italian
 * Norwegian
+* Polish
 * Portuguese
 * Romanian
 * Russian
