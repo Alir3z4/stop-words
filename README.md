@@ -9,6 +9,7 @@ Available languages
 -------------------
 * Arabic
 * Catalan
+* Czech
 * Danish
 * Dutch
 * English
