@@ -25,6 +25,7 @@ Available languages
 * Portuguese
 * Romanian
 * Russian
+* Slovak
 * Spanish
 * Swedish
 * Turkish
