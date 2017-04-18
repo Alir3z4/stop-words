@@ -17,6 +17,7 @@ Available languages
 * Finnish
 * French
 * German
+* Hindi
 * Hungarian
 * Indonesian
 * Italian
