@@ -41,6 +41,7 @@ Programming languages support
 -----------------------------
 
 * `Python`: https://github.com/Alir3z4/python-stop-words
+* `dotnet`: https://github.com/hklemp/dotnet-stop-words
 
 
 License
