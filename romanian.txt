@@ -1,5 +1,6 @@
 vreo
 acelea
+cata
 cita
 degraba
 lor
@@ -7,28 +8,30 @@ alta
 tot
 ai
 dat
-x
 despre
 peste
 bine
 dar
 foarte
-z
 avea
 multi
 cit
+cat
 alt
 mai
 sa
 fie
 tu
 multe
-e
 orice
 dintr
+dintre
+dintr-o
+dintr-un
 se
-g
 intr
+intr-o
+intr-un
 niste
 multa
 insa
@@ -59,6 +62,7 @@ cel
 este
 pe
 atitia
+atatia
 uneori
 acela
 iti
@@ -92,6 +96,7 @@ u
 inapoi
 acestea
 acesta
+aceasta
 catre
 sale
 asupra
@@ -110,6 +115,7 @@ inainte
 s
 de
 cind
+cand
 cumva
 chiar
 acestia
@@ -135,6 +141,7 @@ celor
 astfel
 atunci
 citeva
+cateva
 cat
 sau
 fel
@@ -147,6 +154,7 @@ una
 ceea
 iar
 sintem
+suntem
 ati
 din
 geaba
@@ -165,6 +173,7 @@ asta
 carora
 face
 citiva
+cativa
 voi
 unor
 f
@@ -178,6 +187,7 @@ ce
 altii
 acum
 sint
+sunt
 capat
 mod
 deasupra
@@ -188,6 +198,7 @@ toate
 careia
 aceasta
 atit
+atat
 nimeni
 ii
 ci
@@ -204,6 +215,7 @@ cele
 acea
 un
 incit
+incat
 n
 cei
 or
@@ -214,6 +226,7 @@ atatea
 h
 vor
 decit
+decat
 noi
 cineva
 desi
@@ -221,9 +234,11 @@ ceva
 j
 ului
 atitea
+atatea
 avut
 ar
 pina
+pana
 t
 atata
 unui
@@ -244,6 +259,7 @@ unii
 p
 atare
 cite
+cate
 cine
 cand
 toti
