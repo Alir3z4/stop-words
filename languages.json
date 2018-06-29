@@ -9,6 +9,7 @@
 "fi": "finnish",
 "fr": "french",
 "de": "german",
+"hi": "hindi",
 "hu": "hungarian",
 "id": "indonesian",
 "it": "italian",
@@ -21,5 +22,6 @@
 "es": "spanish",
 "sv": "swedish",
 "tr": "turkish",
-"uk": "ukrainian"
+"uk": "ukrainian",
+"vi": "vietnamese"
 }

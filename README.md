@@ -31,6 +31,7 @@ Available languages
 * Swedish
 * Turkish
 * Ukrainian
+* Vietnamese
 
 Contributing
 -----------------
