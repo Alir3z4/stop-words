@@ -22,6 +22,7 @@ mai
 sa
 fie
 tu
+intrucat
 multe
 orice
 dintr
@@ -133,6 +134,7 @@ mi
 eu
 doar
 niciodata
+nicidecum
 exact
 putini
 aiurea
@@ -143,6 +145,7 @@ atunci
 citeva
 cateva
 cat
+ca
 sau
 fel
 intre
@@ -153,6 +156,7 @@ mult
 una
 ceea
 iar
+iara
 sintem
 suntem
 ati
