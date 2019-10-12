@@ -20,6 +20,7 @@ Available languages
 * Hindi
 * Hungarian
 * Indonesian
+* Malaysian
 * Italian
 * Norwegian
 * Polish
