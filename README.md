@@ -18,6 +18,7 @@ Available languages
 * French
 * German
 * Hindi
+* Hebrew
 * Hungarian
 * Indonesian
 * Malaysian
