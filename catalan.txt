@@ -1,4 +1,4 @@
-﻿a
+a
 abans
 algun
 alguna
@@ -25,7 +25,7 @@ consigueixen
 consigueixes
 dalt
 de
-des de
+des
 dins
 el
 elles
@@ -74,8 +74,6 @@ nosaltres
 o
 on
 per
-per
-per que
 però
 perquè
 podem
@@ -87,6 +85,8 @@ primer
 puc
 quan
 quant
+que
+què
 qui
 sabem
 saben
