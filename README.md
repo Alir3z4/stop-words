@@ -35,6 +35,7 @@ Available languages
 * Turkish
 * Ukrainian
 * Vietnamese
+* Persian/Farsi
 
 Contributing
 -----------------
