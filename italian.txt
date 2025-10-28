@@ -35,6 +35,7 @@ avevano
 avevate
 avevi
 avevo
+avrà
 avrai
 avranno
 avrebbe
@@ -45,7 +46,6 @@ avremo
 avreste
 avresti
 avrete
-avrà
 avrò
 avuta
 avute
@@ -83,6 +83,7 @@ di
 dov
 dove
 e
+è
 ebbe
 ebbero
 ebbi
@@ -116,6 +117,7 @@ facevi
 facevo
 fai
 fanno
+farà
 farai
 faranno
 fare
@@ -127,7 +129,6 @@ faremo
 fareste
 faresti
 farete
-farà
 farò
 fece
 fecero
@@ -209,6 +210,7 @@ questi
 questo
 qui
 quindi
+sarà
 sarai
 saranno
 sarebbe
@@ -219,7 +221,6 @@ saremo
 sareste
 saresti
 sarete
-sarà
 sarò
 se
 sei
@@ -237,6 +238,7 @@ sta
 stai
 stando
 stanno
+starà
 starai
 staranno
 stare
@@ -248,7 +250,6 @@ staremo
 stareste
 staresti
 starete
-starà
 starò
 stava
 stavamo
@@ -305,4 +306,3 @@ vostra
 vostre
 vostri
 vostro
-è

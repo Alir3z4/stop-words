@@ -29,9 +29,9 @@ damit
 dann
 das
 dass
+daß
 dasselbe
 dazu
-daß
 dein
 deine
 deinem
@@ -183,6 +183,7 @@ soll
 sollte
 sondern
 sonst
+über
 um
 und
 uns
@@ -197,6 +198,7 @@ viel
 vom
 von
 vor
+während
 war
 waren
 warst
@@ -221,7 +223,6 @@ wirst
 wo
 wollen
 wollte
-während
 würde
 würden
 zu
@@ -229,4 +230,3 @@ zum
 zur
 zwar
 zwischen
-über
