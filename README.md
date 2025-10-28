@@ -10,6 +10,7 @@ Available languages
 * Arabic
 * Bulgarian
 * Catalan
+* Chinese
 * Czech
 * Danish
 * Dutch
@@ -17,6 +18,7 @@ Available languages
 * Finnish
 * French
 * German
+* Greek
 * Gujarati
 * Hindi
 * Hebrew
@@ -24,6 +26,8 @@ Available languages
 * Indonesian
 * Malaysian
 * Italian
+* Japanese
+* Korean
 * Norwegian
 * Polish
 * Portuguese

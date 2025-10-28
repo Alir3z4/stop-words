@@ -1,3 +1,4 @@
+
 a
 abans
 algun
@@ -124,4 +125,3 @@ va
 vaig
 van
 vosaltres
-
