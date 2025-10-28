@@ -72,10 +72,10 @@ mi
 mna
 mne
 mnou
-môcť
-môj
 moja
 moje
+môcť
+môj
 môže
 musieť
 my
@@ -175,5 +175,5 @@ všetok
 vy
 z
 za
-že
 zo
+že

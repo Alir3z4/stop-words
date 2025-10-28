@@ -261,7 +261,6 @@ sekalian
 sekaligus
 sekalipun
 sekarang
-sekarang
 seketika
 sekiranya
 sekitar
@@ -271,7 +270,6 @@ selagi
 selain
 selaku
 selalu
-selama
 selama
 selamanya
 seluruh

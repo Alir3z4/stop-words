@@ -50,8 +50,8 @@ bon
 c
 c.
 ca
-ca.
 ça
+ca.
 car
 ce
 ceci
@@ -240,8 +240,8 @@ ou
 où
 outre
 par
-parce
 par-devant
+parce
 parmi
 parole
 pas
@@ -273,6 +273,7 @@ qui
 quoy
 rez
 s
+s.v.
 sa
 sans
 sauf
@@ -308,7 +309,6 @@ suis
 suivant
 sujet
 sur
-s.v.
 t
 ta
 tandis
