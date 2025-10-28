@@ -76,9 +76,11 @@ ezzel
 fel
 felé
 hanem
+hát
 hiszen
 hogy
 hogyan
+ide
 igen
 így
 ill
@@ -100,6 +102,7 @@ ki
 kívül
 között
 közül
+le
 legalább
 legyen
 lehet
@@ -110,7 +113,6 @@ lesz
 lett
 maga
 magát
-majd
 majd
 már
 más
@@ -147,9 +149,11 @@ nélkül
 nem
 nincs
 õ
+oda
 õk
 õket
 olyan
+ön
 össze
 ott
 pedig
@@ -165,10 +169,13 @@ sokkal
 számára
 szemben
 szerint
+szét
 szinte
 talán
+te
 tehát
 teljes
+ti
 több
 tovább
 továbbá

@@ -1,11 +1,14 @@
 10
 39
 a
+abaft
 able
 ableabout
+aboard
 about
 above
 abroad
+absent
 abst
 accordance
 according
@@ -22,6 +25,7 @@ af
 affected
 affecting
 affects
+afore
 after
 afterwards
 ag
@@ -54,6 +58,7 @@ amoungst
 amount
 an
 and
+anenst
 announce
 another
 any
@@ -72,6 +77,8 @@ appear
 appreciate
 appropriate
 approximately
+apropos
+apud
 aq
 ar
 are
@@ -91,7 +98,10 @@ asked
 asking
 asks
 associated
+astride
 at
+athwart
+atop
 au
 auth
 available
@@ -107,6 +117,7 @@ backing
 backs
 backward
 backwards
+barring
 bb
 bd
 be
@@ -128,6 +139,7 @@ being
 beings
 believe
 below
+beneath
 beside
 besides
 best
@@ -181,11 +193,13 @@ cg
 ch
 changes
 ci
+circa
 ck
 cl
 clear
 clearly
 click
+close
 cm
 c'mon
 cmon
@@ -306,11 +320,13 @@ ex
 exactly
 example
 except
+excluding
 f
 face
 faces
 fact
 facts
+failing
 fairly
 far
 farther
@@ -338,6 +354,7 @@ followed
 following
 follows
 for
+forenenst
 forever
 former
 formerly
@@ -493,6 +510,7 @@ in
 inasmuch
 inc
 inc.
+including
 indeed
 index
 indicate
@@ -628,6 +646,8 @@ merely
 mg
 mh
 microsoft
+mid
+midst
 might
 mightn't
 mightnt
@@ -643,6 +663,7 @@ ml
 mm
 mn
 mo
+modulo
 more
 moreover
 most
@@ -770,6 +791,7 @@ oughtn't
 oughtnt
 our
 ours
+ours
 ourselves
 out
 outside
@@ -822,6 +844,8 @@ presents
 presumably
 previously
 primarily
+prior
+pro
 probably
 problem
 problems
@@ -830,12 +854,14 @@ proud
 provided
 provides
 pt
+pursuant
 put
 puts
 pw
 py
 q
 qa
+qua
 que
 quickly
 quite
@@ -876,6 +902,8 @@ s
 sa
 said
 same
+sans
+save
 saw
 say
 saying
@@ -977,6 +1005,7 @@ stop
 strongly
 su
 sub
+subsequent
 substantially
 successfully
 such
@@ -997,6 +1026,7 @@ td
 tell
 ten
 tends
+terms
 test
 text
 tf
@@ -1071,6 +1101,7 @@ throug
 through
 throughout
 thru
+thruout
 thus
 til
 till
@@ -1145,6 +1176,7 @@ uucp
 uy
 uz
 v
+v.
 va
 value
 various
@@ -1156,11 +1188,14 @@ very
 vg
 vi
 via
+vice
+vis-à-vis
 viz
 vn
 vol
 vols
 vs
+vs.
 vu
 w
 want
@@ -1259,6 +1294,7 @@ worked
 working
 works
 world
+wortha
 would
 wouldn
 wouldn't

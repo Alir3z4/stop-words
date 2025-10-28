@@ -1,7 +1,10 @@
 a
+acerca
 actualmente
 adelante
 además
+adonde
+áestarían
 afirmó
 agregó
 ahí
@@ -13,8 +16,10 @@ alguna
 algunas
 alguno
 algunos
+allende
 alrededor
 ambos
+amén
 ampleamos
 añadió
 ante
@@ -31,6 +36,7 @@ arriba
 aseguró
 así
 atras
+aun
 aún
 aunque
 ayer
@@ -42,6 +48,8 @@ buena
 buenas
 bueno
 buenos
+cabe
+cabo
 cada
 casi
 cerca
@@ -50,10 +58,13 @@ ciertas
 cierto
 ciertos
 cinco
+circa
 comentó
 como
 cómo
 con
+conmigo
+connosco
 conocer
 conseguimos
 conseguir
@@ -63,7 +74,10 @@ consigo
 consigue
 consiguen
 consigues
+contigo
 contra
+convosco
+convusco
 cosas
 creo
 cual
@@ -82,8 +96,10 @@ debe
 deben
 debido
 decir
+dejante
 dejó
 del
+delas
 demás
 dentro
 desde
@@ -124,6 +140,7 @@ erais
 eramos
 éramos
 eran
+erar
 eras
 eres
 es
@@ -194,6 +211,7 @@ estuviste
 estuvisteis
 estuvo
 ex
+excepto
 existe
 existen
 explicó
@@ -206,6 +224,7 @@ fuéramos
 fueran
 fueras
 fueron
+fuerza
 fuese
 fueseis
 fuésemos
@@ -261,8 +280,10 @@ hayáis
 hayamos
 hayan
 hayas
+haz
 he
 hecho
+hemo
 hemos
 hicieron
 hizo
@@ -321,6 +342,7 @@ menos
 mi
 mí
 mía
+miar
 mías
 mientras
 mio
@@ -332,12 +354,14 @@ mismas
 mismo
 mismos
 modo
+modode
 momento
 mucha
 muchas
 mucho
 muchos
 muy
+na
 nada
 nadie
 ni
@@ -366,6 +390,9 @@ otra
 otras
 otro
 otros
+pa
+pa'
+par
 para
 parece
 parte
@@ -400,6 +427,7 @@ primera
 primero
 primeros
 principalmente
+pro
 propia
 propias
 propio
@@ -430,6 +458,7 @@ sabemos
 saben
 saber
 sabes
+salvo
 se
 sea
 seáis
@@ -441,6 +470,12 @@ segunda
 segundo
 seis
 señaló
+sentid
+sentida
+sentidas
+sentido
+sentidos
+sentir
 ser
 será
 serán
@@ -458,11 +493,14 @@ sí
 sido
 siempre
 siendo
+siente
 siete
 sigue
 siguiente
 sin
 sino
+sintiendo
+so
 sobre
 sois
 sola
@@ -565,6 +603,7 @@ tuyas
 tuyo
 tuyos
 última
+ultimar
 últimas
 ultimo
 último
@@ -595,7 +634,11 @@ ver
 verdad
 verdadera
 verdadero
+versus
 vez
+vía
+vosostras
+vosostros
 vosotras
 vosotros
 voy
@@ -603,6 +646,7 @@ vuestra
 vuestras
 vuestro
 vuestros
+vusco
 y
 ya
 yo

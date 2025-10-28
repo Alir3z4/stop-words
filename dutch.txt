@@ -1,4 +1,5 @@
 aan
+af
 al
 alles
 als
@@ -84,14 +85,18 @@ want
 waren
 was
 wat
+we
+wel
 werd
 wezen
 wie
+wij
 wil
 worden
 wordt
 zal
 ze
+zei
 zelf
 zich
 zij

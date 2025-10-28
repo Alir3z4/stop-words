@@ -15,6 +15,7 @@ bol
 bola
 boli
 bolo
+buď
 bude
 budem
 budeme
@@ -43,6 +44,7 @@ ja
 je
 jeho
 jej
+ju
 k
 kam
 každá
@@ -65,12 +67,15 @@ má
 mať
 máte
 medzi
+menej
 mi
 mna
 mne
 mnou
 môcť
 môj
+moja
+moje
 môže
 musieť
 my
@@ -85,7 +90,6 @@ nič
 nie
 niektorý
 nová
-nové
 nové
 noví
 nový
@@ -119,10 +123,11 @@ pýta
 s
 sa
 si
-si
 sme
 so
 som
+späť
+ste
 sú
 svoj
 svoje
@@ -130,8 +135,10 @@ svojich
 svojím
 svojími
 ta
+tá
 tak
 takže
+tam
 táto
 te
 tě
@@ -147,7 +154,6 @@ tohoto
 tom
 tomto
 tomuto
-toto
 toto
 tu
 tú
