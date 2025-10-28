@@ -21,6 +21,9 @@ class LanguageDataIndexPayload:
         self.root_path = root_path
         self.path_mapping = path_mapping
 
+    def get_lang_codes(self) -> list[str]:
+        return list(self.path_mapping.keys())
+
     def get_path(self, lang: str) -> pathlib.Path:
         if lang not in self.path_mapping:
             raise LanguageDataError(f'Unrecognized language {lang!r}')
@@ -132,10 +135,12 @@ def cli() -> None:
     parser = argparse.ArgumentParser(prog='manage.py')
     subparsers = parser.add_subparsers(dest='command')
 
-    parser_sort = subparsers.add_parser('sort', help='Sort file help')
+    parser_sort = subparsers.add_parser('sort', help='Sort an existing language file')
     parser_sort.add_argument('lang', help='Language code for file to sort. The code is also used for determining the locale.')
 
-    parser_merge = subparsers.add_parser('merge', help='Merge file help')
+    subparsers.add_parser('sort-all', help='Sort all existing language files')
+
+    parser_merge = subparsers.add_parser('merge', help='Merge new words into an existing language file')
     parser_merge.add_argument('lang', help='Language code for file to merge into. The code is also used for determining the locale.')
     parser_merge.add_argument('rest', nargs='*', help='Other files to merge.')
 
@@ -145,6 +150,11 @@ def cli() -> None:
         case 'sort':
             with LanguageDataIndex() as lang_index:
                 merge_language_files(lang_index, result.lang, [])
+
+        case 'sort-all':
+            with LanguageDataIndex() as lang_index:
+                for code in lang_index.get_lang_codes():
+                    merge_language_files(lang_index, code, [])
 
         case 'merge':
             with LanguageDataIndex() as lang_index:

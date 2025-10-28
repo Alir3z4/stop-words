@@ -1,0 +1,24 @@
+name: Lint
+
+on: [push]
+
+jobs:
+  build:
+    runs-on:  ubuntu-24.04
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v4
+    - name: Install dependencies
+      run: |
+        sudo apt install python3-icu
+
+    - name: Make sure the lists are sorted
+      run: |
+        python -m manage sort-all
+
+        if $(test -n "$(git diff)")
+        then
+          echo 'The word lists are unsorted. Please run "python -m manage sort-all"'
+          exit 1
+        fi

@@ -24,6 +24,10 @@ If new words are added manually, you can use the following to maintain the sorti
 ```python
 python -m manage sort en
 ```
+or simply
+```python
+python -m manage sort-all
+```
 
 The management script contains code that can be used as a library. See the `LanguageDataIndex` class and the `sort_word_list` function for more details.
 
