@@ -1,8 +1,12 @@
-á
 à
+á
 ạ
 á à
 a ha
+a lô
+à này
+à ơi
+ạ ơi
 ai
 ái
 ai ai
@@ -10,19 +14,20 @@ ai ai
 ái dà
 ai đó
 ai nấy
-a lô
 alô
 amen
-ăn
-à này
-ăn chắc
-ăn chịu
-ăn chung
-ăn cuộc
 áng
 áng như
 anh
 anh ấy
+ào
+ào ào
+ào vào
+ăn
+ăn chắc
+ăn chịu
+ăn chung
+ăn cuộc
 ăn hết
 ăn hỏi
 ăn làm
@@ -34,11 +39,6 @@ anh ấy
 ăn tay
 ăn trên
 ăn về
-ào
-ào ào
-à ơi
-ạ ơi
-ào vào
 ắt
 ắt hẳn
 ắt là
@@ -53,21 +53,32 @@ bà
 bà ấy
 ba ba
 ba bản
-bác
 ba cùng
 ba họ
+ba ngày
+ba ngôi
+ba tăng
+bác
 bài
 bài bác
 bài bỏ
 bài cái
-bán
 bản
+bán
 bạn
 bản bộ
 bán cấp
 bán dạ
+bản riêng
+bản thân
+bán thế
+bản ý
+bao giờ
+bao lâu
+bao nả
+bao nhiêu
+bay biến
 bằng
-ba ngày
 bằng ấy
 bằng cứ
 bằng được
@@ -77,23 +88,13 @@ bằng nấy
 bằng người
 bằng nhau
 bằng như
-ba ngôi
 bằng vào
-bản riêng
-bản thân
-bán thế
-bản ý
-bao giờ
-bao lâu
-bao nả
-bao nhiêu
-bập bà bập bõm
-bập bõm
-ba tăng
-bất chợt
-bất cứ
 bắt đầu
 bắt đầu từ
+bập bà bập bõm
+bập bõm
+bất chợt
+bất cứ
 bất đồ
 bất giác
 bất kể
@@ -108,7 +109,6 @@ bất thình lình
 bất tử
 bấy
 bây bẩy
-bay biến
 bấy chầy
 bây chừ
 bấy chừ
@@ -120,15 +120,16 @@ bấy nay
 bây nhiêu
 bấy nhiêu
 bèn
+béng
 bên
 bển
 bên bị
 bên cạnh
 bên có
-béng
 bệt
 bị
 bị chú
+bị vì
 biết
 biết bao
 biết bao nhiêu
@@ -143,59 +144,69 @@ biết mình
 biết thế
 biết trước
 biết việc
-bị vì
 bỏ
-bớ
-bộ
 bỏ bà
 bỏ cha
 bỏ cuộc
+bỏ không
+bỏ lại
+bỏ mất
+bỏ mẹ
+bỏ mình
+bỏ nhỏ
+bỏ quá
+bỏ ra
+bỏ riêng
+bỏ việc
+bỏ xa
+bộ
 bộ điều
+bộ thuộc
+bội phần
+bông
+bỗng
+bỗng chốc
+bỗng dưng
+bỗng đâu
+bỗng không
+bỗng nhiên
+bỗng nhưng
+bỗng thấy
+bớ
 bởi
 bởi ai
 bởi chưng
 bởi đâu
 bởi nhưng
-bội phần
 bởi sao
 bởi tại
 bởi thế
 bởi thế cho nên
 bởi vậy
 bởi vì
-bỏ không
-bỏ lại
-bỏ mất
-bỏ mẹ
-bỏ mình
-bông
-bỗng
-bỗng chốc
-bỗng đâu
-bỗng dưng
-bỗng không
-bỗng nhiên
-bỗng nhưng
-bỗng thấy
-bỏ nhỏ
-bỏ quá
-bỏ ra
-bỏ riêng
-bộ thuộc
-bỏ việc
-bỏ xa
-bức
-bước
-bước đi
-bước khỏi
-bước tới
 buổi
 buổi làm
 buổi mới
 buổi ngày
 buổi sớm
+bức
+bước
+bước đi
+bước khỏi
+bước tới
 cả
 cả ăn
+cả đến
+cả năm
+cả ngày
+cả nghe
+cả nghĩ
+cả người
+cả nhà
+cá nhân
+cả thảy
+cả thể
+cả tin
 các
 các cậu
 cách
@@ -203,7 +214,6 @@ cách bức
 cách đều
 cách không
 cách nhau
-cả đến
 cái
 cái ấy
 cái đã
@@ -212,39 +222,29 @@ cái gì
 cái họ
 cảm ơn
 cảm thấy
-căn
-cần
-cả năm
-căn cái
-cần cấp
-căn cắt
 càng
-cả ngày
 càng càng
 càng hay
-cả nghe
-cả nghĩ
-cần gì
-cả người
-cả nhà
-cá nhân
-cần số
-căn tính
 cao
 cao lâu
-cao răng
 cao ráo
+cao răng
 cao sang
 cao số
 cao thấp
 cao thế
 cao xa
+căn
+căn cái
+căn cắt
+căn tính
+cần
+cần cấp
+cần gì
+cần số
 cấp
 cấp số
 cấp trực tiếp
-cả thảy
-cả thể
-cả tin
 cật lực
 cật sức
 cậu
@@ -252,17 +252,17 @@ câu hỏi
 cây
 cây nước
 cha
+cha chả
+chành chạnh
+chao ôi
 chắc
-chậc
 chắc ăn
 chắc chắn
 chắc dạ
-cha chả
 chắc hẳn
 chắc lòng
 chắc người
 chắc vào
-chầm chập
 chăn chắn
 chăng
 chăng chắc
@@ -271,21 +271,22 @@ chẳng những
 chăng nữa
 chẳng nữa
 chẳng phải
-chành chạnh
-chao ôi
+chậc
+chầm chập
 chết nỗi
 chết thật
 chết tiệt
 chỉ
 chị
-chia sẻ
 chị ấy
 chị bộ
 chí chết
 chỉ chính
 chỉ có
-chiếc
 chỉ là
+chỉ tên
+chia sẻ
+chiếc
 chỉn
 chính
 chính bản
@@ -293,73 +294,54 @@ chính điểm
 chính giữa
 chính là
 chính thị
-chỉ tên
 chịu
 chịu ăn
 chịu chưa
 chịu lời
 chịu tốt
 cho
-chớ
-choa
 cho ăn
 cho biết
-chốc chốc
 cho chắc
-chớ chi
 cho đang
 cho đến
 cho đến khi
 cho đến nỗi
 cho được
-chớ gì
 cho hay
-chơi
-chơi họ
-chớ kể
-chớ không
-chọn
-chọn bên
 cho nên
 cho nhau
-chớ như
-chọn ra
 cho rằng
 cho rồi
-chợt
 cho thấy
 cho tin
-chợt nghe
-chợt nhìn
 cho tới
 cho tới khi
 cho về
+choa
+chọn
+chọn bên
+chọn ra
+chốc chốc
+chớ
+chớ chi
+chớ gì
+chớ kể
+chớ không
+chớ như
+chơi
+chơi họ
+chợt
+chợt nghe
+chợt nhìn
 chú
-chứ
-chưa
-chưa bao giờ
-chưa cần
-chưa chắc
-chưa có
-chưa dễ
-chưa dùng
-chứ ai
-chưa kể
-chuẩn bị
-chưa tính
-chưa từng
 chu cha
-chứ còn
 chú dẫn
-chứ gì
-chui cha
 chú khách
-chứ không
-chứ không phải
-chứ lại
-chứ lị
 chú mày
 chú mình
+chuẩn bị
+chui cha
 chủn
 chùn chùn
 chùn chũn
@@ -378,76 +360,94 @@ chung quy
 chung quy lại
 chúng ta
 chúng tôi
-chứ như
-chứ sao
 chuyển
 chuyện
 chuyển đạt
 chuyển tự
+chứ
+chứ ai
+chứ còn
+chứ gì
+chứ không
+chứ không phải
+chứ lại
+chứ lị
+chứ như
+chứ sao
+chưa
+chưa bao giờ
+chưa cần
+chưa chắc
+chưa có
+chưa dễ
+chưa dùng
+chưa kể
+chưa tính
+chưa từng
 có
-cô
-cơ
 có ai
 có ăn
-cô ấy
 có chăng
 có chăng là
-cơ chỉ
-có chứ
-cơ chừng
 có chuyện
-cóc khô
+có chứ
 có cơ
-cơ cùng
-cơ dẫn
+có dễ
 có đáng
 có đâu
-có dễ
 có điều
 có điều kiện
 có được
 có họ
-cơ hồ
-cơ hội
-coi bộ
-coi mòi
 có khi
-cổ lai
-cơ mà
-cô mình
-con
-còn
-cơn
-còn có
-con con
-con dạ
 có ngày
-công nhiên
 có người
 có nhà
 có nhiều
+có phải
+có số
+có tháng
+có thể
+có thế
+có vẻ
+có ý
+cóc khô
+coi bộ
+coi mòi
+con
+còn
+còn có
+con con
+con dạ
 con nhà
 còn như
 còn nữa
 còn thời gian
 con tính
 còn về
-có phải
+cô
+cô ấy
+cổ lai
+cô mình
 cô quả
-có số
 cô tăng
-có tháng
-có thế
-có thể
-có vẻ
-có ý
-cứ
+công nhiên
+cơ
+cơ chỉ
+cơ chừng
+cơ cùng
+cơ dẫn
+cơ hồ
+cơ hội
+cơ mà
+cơn
+cu cậu
+cụ thể
+cụ thể là
+cụ thể như
 của
 của ngọt
 của tin
-cu cậu
-cực lực
-cứ điểm
 cùng
 cũng
 cùng ăn
@@ -463,40 +463,86 @@ cùng tuổi
 cũng vậy
 cũng vậy thôi
 cùng với
-cứ như
 cuộc
 cuối
 cuối cùng
 cuối điểm
 cuốn
-cụ thể
-cụ thể là
-cụ thể như
+cứ
+cứ điểm
+cứ như
 cứ việc
+cực lực
 dạ
-đã
 dạ bán
-đặc biệt
 dạ con
 dạ dạ
 dạ dài
-đã đủ
-đã hay
-dài
-đại để
-đại loại
-dài lời
-đại nhân
-đại phàm
-dài ra
 dạ khách
-đã không
-đã là
-đã lâu
-đảm bảo
+dài
+dài lời
+dài ra
+dành
+dành dành
+dào
 dẫn
 dần dà
 dần dần
+dẫu
+dẫu mà
+dẫu rằng
+dầu sao
+dẫu sao
+dễ
+dễ ăn
+dễ dùng
+dễ đâu
+dễ gì
+dễ khiến
+dễ nghe
+dễ ngươi
+dễ như chơi
+dễ sợ
+dễ sử dụng
+dễ thấy
+dễ thường
+dì
+do
+do đó
+do vậy
+do vì
+dở chừng
+dù
+dù cho
+dù dì
+dù gì
+dù rằng
+dù sao
+dùng
+dùng cho
+dùng đến
+dùng hết
+dùng làm
+duy
+duy chỉ
+duy có
+dữ
+dữ cách
+dưới
+dưới nước
+đã
+đã đủ
+đã hay
+đã không
+đã là
+đã lâu
+đã thế
+đã vậy
+đại để
+đại loại
+đại nhân
+đại phàm
+đảm bảo
 đang
 đáng
 đáng kể
@@ -506,61 +552,47 @@ dần dần
 đáng số
 đang tay
 đang thì
-dành
 đành đạch
-dành dành
 đánh đùng
 đánh giá
-dào
 đáo để
 đạt
+đặc biệt
 đặt
 đặt để
-đã thế
 đặt làm
 đặt mình
 đặt mức
 đặt ra
 đặt trước
-dẫu
 đâu
 đâu có
 đâu cũng
 đâu đâu
 đâu đây
 đâu đó
-dẫu mà
 đâu nào
 đâu như
 đâu phải
-dẫu rằng
-dầu sao
-dẫu sao
 đầu tiên
-đã vậy
 đây
 đầy
 đây đó
-đầy năm
 đây này
+đầy năm
 đầy phè
 đây rồi
 đầy tuổi
-dễ
 để
-dễ ăn
 để cho
-dễ đâu
 để đến nỗi
-dễ dùng
 để được
-dễ gì
 để giống
-dễ khiến
 để không
 để lại
 để lòng
 để mà
+để phần
 đến
 đến bao giờ
 đến cả
@@ -569,11 +601,8 @@ dễ khiến
 đến đâu
 đến điều
 đến gần
-dễ nghe
 đến giờ
-dễ ngươi
 đến hay
-dễ như chơi
 đến khi
 đến lời
 đến lúc
@@ -585,16 +614,10 @@ dễ như chơi
 đến thì
 đến tuổi
 đến xem
-để phần
-dễ sợ
-dễ sử dụng
-dễ thấy
-dễ thường
 đều
 đều bước
 đều đều
 đều nhau
-dì
 điểm
 điểm chính
 điểm đầu tiên
@@ -602,19 +625,22 @@ dì
 điều
 điều gì
 điều kiện
-do
 đó
-dở chừng
 đó đây
-do đó
 đối với
 đồng thời
 đơn vị
-do vậy
-do vì
-dù
-dữ
 đủ
+đủ dùng
+đủ điểm
+đủ điều
+đủ nơi
+đủ số
+đúng
+đúng ngày
+đúng ra
+đúng tuổi
+đúng với
 đưa
 đưa cho
 đưa chuyện
@@ -627,39 +653,16 @@ dữ
 đưa vào
 đưa về
 đưa xuống
-dữ cách
-dù cho
-dù dì
-đủ điểm
-đủ điều
-đủ dùng
-dù gì
-dùng
-đúng
-dùng cho
-dùng đến
-dùng hết
-dùng làm
-đúng ngày
-đúng ra
-đúng tuổi
-đúng với
-đủ nơi
 được
 được cái
 được lời
 được nước
 được tin
-dưới
-dưới nước
-dù rằng
-dù sao
-đủ số
-duy
-duy chỉ
-duy có
 em
 em em
+gặp
+gặp khó khăn
+gặp phải
 gần
 gần bên
 gần đây
@@ -668,40 +671,36 @@ gần hết
 gần ngày
 gần như
 gần xa
-gặp
-gặp khó khăn
-gặp phải
 gây
 gây cho
 gây giống
 gây ra
 gây thêm
 gì
+gì đó
+gì gì
+giá trị
+giá trị thực tế
 giảm
 giảm chính
 giảm thấp
 giảm thế
-giá trị
-giá trị thực tế
-gì đó
-gì gì
+giống
+giống người
+giống nhau
+giống như
 giờ
 giờ đây
 giờ đến
 giờ đi
 giờ lâu
 giờ này
-giống
-giống người
-giống nhau
-giống như
 giữ
-giữa
-giữa lúc
 giữ lấy
 giữ ý
+giữa
+giữa lúc
 gồm
-hầu hết
 hay
 hãy
 hay biết
@@ -715,6 +714,7 @@ hay nhỉ
 hay nói
 hay sao
 hay tin
+hầu hết
 hết
 hết cả
 hết chuyện
@@ -727,22 +727,22 @@ hiện nay
 hiện tại
 hiểu
 họ
+họ gần
+họ xa
+hoàn toàn
 hoặc
 hoặc là
-hoàn toàn
-họ gần
 hỏi
 hỏi lại
 hỏi xem
 hỏi xin
+hỗ trợ
 hơn
 hơn cả
 hơn hết
 hơn là
 hơn nữa
 hơn trước
-hỗ trợ
-họ xa
 ít
 ít biết
 ít có
@@ -762,34 +762,39 @@ kể như
 kể tới
 kể từ
 khá
+khá tốt
 khác
 khác gì
-khách
 khác khác
 khác nào
 khác nhau
 khác thường
 khác xa
+khách
 khẳng định
-khá tốt
 khi
-khiến
 khi khác
 khi không
 khi nào
 khi nên
 khi trước
+khiến
 khó
-khoảng
-khoảng cách
-khoảng không
 khó biết
 khó chơi
-khỏi
-khỏi nói
 khó khăn
 khó làm
 khó mở
+khó nghe
+khó nghĩ
+khó nói
+khó thấy
+khó tránh
+khoảng
+khoảng cách
+khoảng không
+khỏi
+khỏi nói
 không
 không ai
 không bán
@@ -801,17 +806,15 @@ không chỉ
 không có
 không có gì
 không còn
-không cứ
 không cùng
+không cứ
+không dùng
 không đầy
 không để
 không điều kiện
-không dùng
 không được
 không gì
 không hay
-khó nghe
-khó nghĩ
 không kể
 không khỏi
 không ngoài
@@ -821,11 +824,14 @@ không phải
 không phải không
 không thể
 không tính
-khó nói
-khó thấy
-khó tránh
 là
 là cùng
+là ít
+là là
+là nhiều
+là phải
+là thế nào
+là vì
 lại
 lại ăn
 lại bộ
@@ -838,9 +844,7 @@ lại người
 lại nói
 lại nữa
 lại quả
-là ít
 lại thôi
-là là
 làm
 làm bằng
 làm cho
@@ -861,13 +865,12 @@ làm sao
 làm tại
 làm tăng
 làm tắp lự
-làm thế nào
 làm theo
+làm thế nào
 làm tin
 làm tôi
 làm vì
 lần
-là nhiều
 lần khác
 lần lần
 lần nào
@@ -877,14 +880,11 @@ lần sau
 lần theo
 lần tìm
 lần trước
-là phải
-là thế nào
 lâu
 lâu các
 lâu lâu
 lâu nay
 lâu ngày
-là vì
 lấy
 lấy cả
 lấy có
@@ -914,12 +914,12 @@ lên xuống
 liên quan
 loại
 loại từ
+lòng
+lòng không
 lời
 lời chú
 lời nói
 lớn
-lòng
-lòng không
 lớn lên
 lớn nhỏ
 lúc
@@ -935,17 +935,19 @@ lúc sáng
 lúc trước
 luôn
 luôn cả
+luôn luôn
+luôn tay
 lượng
 lượng cả
 lượng số
 lượng từ
-luôn luôn
-luôn tay
 lý do
 mà
 mà cả
 mà không
 mà lại
+mà thôi
+mà vẫn
 mang
 mang lại
 mang mang
@@ -954,34 +956,23 @@ mang về
 mạnh
 mất
 mất còn
-mà thôi
-mà vẫn
 mình
-mở
-mợ
-mối
-mỗi
-mới
 mọi
-mới đây
 mọi giờ
-mới hay
 mọi khi
-mỗi lần
-mỗi lúc
 mọi lúc
-mỗi một
-mỗi ngày
-mỗi người
 mọi người
 mọi nơi
-mới rồi
 mọi sự
 mọi thứ
 mọi việc
-mở mang
-mở nước
-mở ra
+mỗi
+mối
+mỗi lần
+mỗi lúc
+mỗi một
+mỗi ngày
+mỗi người
 một
 một cách
 một cơn
@@ -990,14 +981,17 @@ một khi
 một lúc
 một số
 một vài
-mức
+mở
+mợ
+mở mang
+mở nước
+mở ra
+mới
+mới đây
+mới hay
+mới rồi
 muốn
-năm
-năm tháng
-nặng
-nặng căn
-nặng mình
-nặng về
+mức
 nào
 nào cũng
 nào đâu
@@ -1007,8 +1001,14 @@ nào là
 nào phải
 nay
 này
-nấy
 này nọ
+năm
+năm tháng
+nặng
+nặng căn
+nặng mình
+nặng về
+nấy
 nên
 nền
 nên chăng
@@ -1025,7 +1025,6 @@ nếu mà
 nếu như
 nếu thế
 nếu vậy
-ngăn ngắt
 ngay
 ngày
 ngày ấy
@@ -1053,6 +1052,7 @@ ngay tức khắc
 ngay tức thì
 ngày xưa
 ngày xửa
+ngăn ngắt
 nghe
 nghe chừng
 nghe đâu
@@ -1061,7 +1061,6 @@ nghe được
 nghe hiểu
 nghe không
 nghe lại
-nghen
 nghe nhìn
 nghe như
 nghe nói
@@ -1070,20 +1069,25 @@ nghe rõ
 nghe thấy
 nghe tin
 nghe trực tiếp
+nghen
 nghĩ
 nghĩ đến
-nghiễm nhiên
 nghĩ lại
-nghỉm
 nghĩ ra
 nghĩ tới
 nghĩ xa
+nghiễm nhiên
+nghỉm
+ngõ hầu
 ngoài
 ngoải
 ngoài này
 ngoài ra
 ngoài xa
-ngõ hầu
+ngọn
+ngọn nguồn
+ngọt
+ngộ nhỡ
 ngôi
 ngồi
 ngồi bệt
@@ -1092,10 +1096,7 @@ ngôi nhà
 ngồi sau
 ngôi thứ
 ngồi trệt
-ngọn
-ngộ nhỡ
-ngọn nguồn
-ngọt
+nguồn
 ngươi
 người
 người hỏi
@@ -1105,11 +1106,18 @@ người mình
 người nghe
 người người
 người nhận
-nguồn
 nhà
 nhà chung
 nhà khó
 nhà làm
+nhà ngoài
+nhà ngươi
+nhà tôi
+nhà việc
+nhanh
+nhanh lên
+nhanh tay
+nhau
 nhằm
 nhằm để
 nhằm khi
@@ -1119,12 +1127,7 @@ nhận
 nhận biết
 nhân dịp
 nhận được
-nhà ngoài
-nhà ngươi
-nhanh
-nhanh lên
 nhận họ
-nhanh tay
 nhận làm
 nhận nhau
 nhận ra
@@ -1139,15 +1142,12 @@ nhất loạt
 nhất luật
 nhất mực
 nhất nhất
-nhà tôi
 nhất quyết
 nhất sinh
 nhất tâm
 nhất tề
 nhất thì
 nhất thiết
-nhau
-nhà việc
 nhé
 nhỉ
 nhiên hậu
@@ -1162,25 +1162,38 @@ nhìn thấy
 nhìn theo
 nhìn xuống
 nhỏ
-nhớ
+nhỏ người
+nhóm
+nhón nhén
 nhờ
+nhớ
 nhớ bập bõm
 nhờ chuyển
 nhờ có
 nhờ đó
 nhớ lại
 nhớ lấy
-nhóm
-nhỏ người
 nhờ nhờ
-nhón nhén
-nhớ ra
 nhỡ ra
+nhớ ra
+nhung nhăng
 như
 như ai
 như chơi
 như không
 như là
+như nhau
+như quả
+như sau
+như thể
+như thế
+như thế nào
+như thường
+như trên
+như trước
+như tuồng
+như vậy
+như ý
 nhưng
 những
 những ai
@@ -1189,27 +1202,12 @@ những là
 những lúc
 nhưng mà
 những muốn
-nhung nhăng
 những như
-như nhau
 nhược bằng
-như quả
-như sau
-như thế
-như thể
-như thế nào
-như thường
-như trên
-như trước
-như tuồng
-như vậy
-như ý
 nó
-nớ
 nọ
 nóc
 nói
-nơi
 nói bông
 nói chung
 nói đến
@@ -1219,7 +1217,6 @@ nói là
 nói lại
 nói lên
 nói nhỏ
-nơi nơi
 nói phải
 nói qua
 nói ra
@@ -1233,6 +1230,9 @@ nói trước
 nói với
 nói xa
 nói ý
+nớ
+nơi
+nơi nơi
 nữa
 nữa khi
 nữa là
@@ -1247,32 +1247,19 @@ nước lên
 nước nặng
 nước quả
 nước xuống
-ồ
-ơ
-ớ
-ờ
-ở
 oái
 oai oái
-ở đây
-ở đó
-ở được
+ồ
 ô hay
-ơ hay
 ô hô
-ơi
+ô kê
+ô kìa
+ồ ồ
 ôi chao
 ối dào
 ối giời
 ối giời ơi
-ơi là
 ôi thôi
-ô kê
-ô kìa
-ơ kìa
-ở lại
-ở năm
-ớ này
 ông
 ổng
 ông ấy
@@ -1280,12 +1267,25 @@ oai oái
 ông ổng
 ông tạo
 ông từ
+ơ
+ờ
+ở
+ớ
+ở đây
+ở đó
+ở được
+ơ hay
+ơ kìa
+ở lại
+ớ này
+ở năm
 ở nhờ
 ở như
-ồ ồ
 ờ ờ
 ở trên
 ở vào
+ơi
+ơi là
 phải
 phải biết
 phải cách
@@ -1301,16 +1301,17 @@ phải người
 phải như
 phải rồi
 phải tay
+phăn phắt
+phắt
 phần
 phần lớn
 phần nào
 phần nhiều
-phăn phắt
 phần sau
 phần việc
-phắt
 phè
 phè phè
+phỉ phui
 phía
 phía bạn
 phía bên
@@ -1319,23 +1320,22 @@ phía sau
 phía trên
 phía trong
 phía trước
-phỉ phui
 pho
 phóc
-phốc
 phỏng
 phỏng như
 phỏng nước
 phỏng theo
 phỏng tính
 phót
+phốc
 phù hợp
+phụt
 phương chi
 phứt
-phụt
 qua
-quá
 quả
+quá
 quá bán
 quá bộ
 qua chuyện
@@ -1348,12 +1348,8 @@ qua lại
 qua lần
 quá lời
 quá mức
-quận
 qua ngày
 quá nhiều
-quan tâm
-quan trọng
-quan trọng vấn đề
 qua tay
 quá tay
 quả thật
@@ -1365,11 +1361,15 @@ quá trình
 quá tuổi
 quá ư
 quả vậy
+quan tâm
+quan trọng
+quan trọng vấn đề
 quay
 quay bước
 quay đi
 quay lại
 quay số
+quận
 ra
 ra bài
 ra bộ
@@ -1379,23 +1379,23 @@ ra điều
 ra gì
 ra lại
 ra lời
-răng
-rằng
-rằng là
 ra ngôi
-răng răng
 ra người
+ra sao
+ra tay
+ra vào
+ra ý
 ráo
 ráo cả
 ráo nước
 ráo trọi
-ra sao
-rất
-ra tay
-rất lâu
-ra vào
-ra ý
 rày
+răng
+rằng
+rằng là
+răng răng
+rất
+rất lâu
 rén
 rén bước
 ren rén
@@ -1405,6 +1405,9 @@ riêng từng
 riệt
 riu ríu
 rõ
+rõ là
+rõ thật
+rón rén
 rồi
 rồi đây
 rồi nữa
@@ -1414,13 +1417,11 @@ rồi sau
 rồi tay
 rồi thì
 rồi xem
-rõ là
-rón rén
 rốt cục
 rốt cuộc
-rõ thật
-rứa
 rút cục
+rứa
+sa sả
 sang
 sáng
 sang năm
@@ -1436,10 +1437,6 @@ sao bằng
 sao cho
 sao đang
 sao vậy
-sắp
-sắp đặt
-sa sả
-sất
 sau
 sau chót
 sau cùng
@@ -1450,32 +1447,36 @@ sau hết
 sau này
 sau nữa
 sau sau
+sắp
+sắp đặt
+sất
 sẽ
 sẽ biết
 sẽ hay
 sì
 sì sì
 so
+so với
+song le
 số
 số cho biết
 số cụ thể
-sở dĩ
 số là
 số loại
-sớm
-sớm ngày
-song le
 số người
 số phần
 số thiếu
 sốt sột
-so với
+sở dĩ
+sớm
+sớm ngày
+suýt
+suýt nữa
 sự
 sử dụng
 sự thế
 sự việc
-suýt
-suýt nữa
+tà tà
 tại
 tại đâu
 tại đây
@@ -1485,55 +1486,52 @@ tại nơi
 tại sao
 tại tôi
 tại vì
-tấm
-tấm bản
-tấm các
-tăm tắp
-tấn
-tăng
-tăng cấp
-tăng chúng
-tăng giảm
-tăng thế
-tăng thêm
 tanh
 tanh tanh
-tấn tới
 tạo
 tạo cơ hội
 tạo điều kiện
 tạo nên
 tạo ra
 tạo ý
+tay
+tay quay
+tăm tắp
+tăng
+tăng cấp
+tăng chúng
+tăng giảm
+tăng thế
+tăng thêm
 tắp
 tắp lự
 tắp tắp
+tấm
+tấm bản
+tấm các
+tấn
+tấn tới
 tập trung
-tà tà
 tất cả
 tất cả bao nhiêu
 tất tần tật
 tất tật
 tất thảy
-tay
-tay quay
 tên
 tên cái
 tên chính
-tênh
 tên họ
-tênh tênh
 tên tự
+tênh
+tênh tênh
 thà
 tha hồ
 tha hồ ăn
 tha hồ chơi
-thái quá
 thà là
-thậm
-thậm cấp
-thậm chí
-thậm từ
+thà rằng
+thái quá
+than ôi
 tháng
 tháng năm
 tháng ngày
@@ -1548,14 +1546,18 @@ thành ra
 thanh thanh
 thành thử
 thanh tính
-than ôi
 thảo hèn
 thảo nào
+thay đổi
+thay đổi tình trạng
+thậm
+thậm cấp
+thậm chí
+thậm từ
 thấp
 thấp cơ
 thấp thỏm
 thấp xuống
-thà rằng
 thật
 thật chắc
 thật là
@@ -1566,36 +1568,40 @@ thật sự
 thật thà
 thật tốt
 thật vậy
-thấy
 thẩy
-thay đổi
-thay đổi tình trạng
+thấy
 thấy tháng
-thế
-thế à
-thếch
-thế chuẩn bị
-thế đó
-thế là
-thế lại
-thêm
-thế mà
-thêm chuyện
-thêm giờ
-thêm vào
-thế nào
-thế nên
 theo
 theo bước
 theo như
 theo tin
+thế
+thế à
+thế chuẩn bị
+thế đó
+thế là
+thế lại
+thế mà
+thế nào
+thế nên
 thế ra
 thế sự
 thế thế
 thế thì
 thế thôi
 thế thường
+thếch
+thêm
+thêm chuyện
+thêm giờ
+thêm vào
 thì
+thì giờ
+thì là
+thì phải
+thì ra
+thi thoảng
+thì thôi
 thích
 thích cứ
 thích thuộc
@@ -1604,52 +1610,46 @@ thích ý
 thiếu
 thiếu điểm
 thiếu gì
-thì giờ
-thì là
 thím
 thình lình
 thỉnh thoảng
-thì phải
-thì ra
-thi thoảng
-thì thôi
-thoắt
 thoạt
 thoạt nghe
 thoạt nhiên
+thoắt
+thỏm
 thốc
 thộc
 thốc tháo
 thôi
-thời điểm
-thời gian
-thời gian sử dụng
-thời gian tính
 thôi việc
-thỏm
 thốt
 thốt nhiên
 thốt nói
 thốt thôi
-thứ
-thửa
+thời điểm
+thời gian
+thời gian sử dụng
+thời gian tính
 thuần
 thuần ái
-thứ bản
-thực hiện
-thực hiện đúng
 thục mạng
-thực ra
-thực sự
-thực tế
-thực vậy
-thứ đến
 thúng thắng
 thuộc
 thuộc bài
 thuộc cách
 thuộc lại
 thuộc từ
+thứ
+thứ bản
+thứ đến
+thửa
+thực hiện
+thực hiện đúng
+thực ra
+thực sự
+thực tế
+thực vậy
 thường
 thường bị
 thường đến
@@ -1674,6 +1674,8 @@ tìm hiểu
 tìm ra
 tìm việc
 tin
+tin thêm
+tin vào
 tính
 tính cách
 tính căn
@@ -1681,45 +1683,43 @@ tính người
 tính phỏng
 tình trạng
 tính từ
-tin thêm
-tin vào
 tít mù
-tớ
+tỏ ra
+tò te
+tỏ vẻ
 toà
-tốc tả
 toé khói
 toẹt
+tọt
+tốc tả
 tôi
-tới
 tôi con
-tới gần
-tới mức
-tới nơi
-tới thì
 tối ư
 tông tốc
-tỏ ra
 tốt
-tọt
 tột
 tốt bạn
 tốt bộ
 tột cùng
-tò te
 tốt hơn
 tốt mối
 tốt ngày
-tỏ vẻ
+tớ
+tới
+tới gần
+tới mức
+tới nơi
+tới thì
 trả
 trả của
 trả lại
 trả ngay
+trả trước
 tránh
 tránh khỏi
 tránh ra
 tránh tình trạng
 tránh xa
-trả trước
 trên
 trển
 trên bộ
@@ -1727,7 +1727,6 @@ trên dưới
 trệt
 trếu tráo
 trệu trạo
-trời đất ơi
 trong
 trỏng
 trong ấy
@@ -1740,6 +1739,8 @@ trong ngoài
 trong số
 trong vùng
 trở thành
+trời đất ơi
+trừ phi
 trực tiếp
 trực tiếp làm
 trước
@@ -1754,17 +1755,30 @@ trước nhất
 trước sau
 trước tiên
 trước tuổi
-trừ phi
+tù tì
+tuần tự
+tuổi
+tuổi cả
+tuổi tôi
+tuốt luốt
+tuốt tuồn tuột
+tuốt tuột
+tuy
+tuy có
+tuy đã
+tuy là
+tuy nhiên
+tuy rằng
+tuy thế
+tuy vậy
+tuyệt nhiên
 từ
 tự
 từ ái
 tự ăn
-tuần tự
 từ ấy
-từ căn
 tự cao
-tức thì
-tức tốc
+từ căn
 từ điều
 từ đó
 từ giờ
@@ -1773,6 +1787,16 @@ tự khi
 từ loại
 tự lượng
 từ nay
+từ tại
+tự tạo
+từ thế
+từ tính
+tự tính
+từ từ
+tự vì
+tự ý
+tức thì
+tức tốc
 từng
 từng ấy
 từng cái
@@ -1781,46 +1805,23 @@ từng giờ
 từng nhà
 từng phần
 từng thời gian
-tuổi
-tuổi cả
-tuổi tôi
-tuốt luốt
-tuốt tuồn tuột
-tuốt tuột
-từ tại
-tự tạo
-từ thế
-tù tì
-từ tính
-tự tính
-từ từ
 tựu trung
-tự vì
-tuy
-tự ý
-tuy có
-tuy đã
-tuyệt nhiên
-tuy là
-tuy nhiên
-tuy rằng
-tuy thế
-tuy vậy
-ư
-ừ
-ử
 ủa
-ừ ào
-ứ hự
 úi
 úi chà
 úi dào
+ư
+ừ
+ử
+ừ ào
+ứ hự
 ừ nhé
 ừ thì
-ứ ừ
 ừ ừ
+ứ ừ
 và
 vả chăng
+vả lại
 vài
 vài ba
 vài điều
@@ -1828,24 +1829,23 @@ vài người
 vài nhà
 vài nơi
 vài tên
-vả lại
-vẫn
-vấn đề
-vấn đề quan trọng
-vâng
-vâng chịu
-vâng dạ
-văng tê
-vâng vâng
-vâng ý
 vạn nhất
-vẫn thế
 vào
 vào đến
 vào gặp
 vào khoảng
 vào lúc
 vào vùng
+văng tê
+vẫn
+vấn đề
+vấn đề quan trọng
+vẫn thế
+vâng
+vâng chịu
+vâng dạ
+vâng vâng
+vâng ý
 vậy
 vậy là
 vậy mà
@@ -1853,13 +1853,13 @@ vậy nên
 vậy ra
 vậy thì
 vậy ư
-về
-về không
-về nước
 veo
 vèo
 veo veo
 vèo vèo
+về
+về không
+về nước
 về phần
 về sau
 về tay
@@ -1867,8 +1867,6 @@ vì
 ví bằng
 vì chưng
 ví dù
-việc
-việc gì
 ví phỏng
 vì rằng
 vì sao
@@ -1877,15 +1875,24 @@ vì thế
 ví thử
 vị trí
 vì vậy
-vở
+việc
+việc gì
 vô hình trung
+vô kể
+vô luận
+vô vàn
+vốn dĩ
+vở
 với
 với lại
 với nhau
-vô kể
-vô luận
-vốn dĩ
-vô vàn
+vùng
+vùng lên
+vùng nước
+vung tàn tán
+vung tán tàn
+vung thiên địa
+vụt
 vừa
 vừa khi
 vừa lúc
@@ -1893,28 +1900,21 @@ vừa mới
 vừa qua
 vừa rồi
 vừa vừa
-vùng
-vùng lên
-vùng nước
-vung tán tàn
-vung tàn tán
-vung thiên địa
 vượt
 vượt khỏi
 vượt quá
-vụt
 xa
 xa cách
 xa gần
-xăm xăm
-xăm xắm
-xăm xúi
 xa nhà
 xa tanh
 xa tắp
 xa xa
 xa xả
 xảy ra
+xăm xăm
+xăm xắm
+xăm xúi
 xem
 xem lại
 xem ra
@@ -1925,8 +1925,8 @@ xiết bao
 xin
 xin gặp
 xin vâng
-xoẳn
 xoành xoạch
+xoẳn
 xoét
 xoẹt
 xon xón
@@ -1934,10 +1934,10 @@ xuất hiện
 xuất kì bất ý
 xuất kỳ bất ý
 xuể
-xử lý
 xuống
+xử lý
 ý
 ý chừng
 ý da
-yêu cầu
 ý hoặc
+yêu cầu

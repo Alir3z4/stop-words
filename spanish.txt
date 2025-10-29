@@ -21,10 +21,10 @@ alrededor
 ambos
 amén
 ampleamos
-añadió
 ante
 anterior
 antes
+añadió
 apenas
 aproximadamente
 aquel
@@ -419,8 +419,8 @@ podrían
 podrias
 poner
 por
-porque
 por qué
+porque
 posible
 primer
 primera
@@ -469,13 +469,13 @@ según
 segunda
 segundo
 seis
-señaló
 sentid
 sentida
 sentidas
 sentido
 sentidos
 sentir
+señaló
 ser
 será
 serán

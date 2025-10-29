@@ -116,7 +116,6 @@ tinc
 tot
 últim
 un
-un
 una
 unes
 uns

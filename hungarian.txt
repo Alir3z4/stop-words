@@ -153,9 +153,9 @@ oda
 õk
 õket
 olyan
+ott
 ön
 össze
-ott
 pedig
 persze
 rá
@@ -176,9 +176,9 @@ te
 tehát
 teljes
 ti
-több
 tovább
 továbbá
+több
 úgy
 ugyanis
 új
@@ -197,8 +197,8 @@ való
 van
 vannak
 vele
-vissza
 viszont
+vissza
 volna
 volt
 voltak
